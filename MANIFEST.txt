@@ -1,0 +1,17 @@
+MANIFEST
+System-Name: Continuity Capsule System
+Short-Name: CCS
+Version: 1.0
+Created: 2026-01-20
+Hash-Type: SHA-256
+Hash-Format: lowercase-hex
+Line-Format: <sha256>  <path>
+Paths: relative-to-repo-root
+Policy:
+- Any file change MUST update this manifest.
+- Any added file MUST be listed here.
+- Any removed file MUST be removed here.
+- Verification is performed by hashing file bytes and comparing to entries below.
+
+FILES
+<TO_BE_FILLED_AFTER_UPLOAD>
