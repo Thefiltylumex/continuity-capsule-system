@@ -1,0 +1,14 @@
+ROOT
+System-Name: Continuity Capsule System
+Short-Name: CCS
+Version: 1.0
+Created: 2026-01-20
+Purpose: Public continuity bootstrap and persistence protocol
+Format: Plain text
+Encoding: UTF-8
+Authority: Public
+Repository: https://github.com/Thefiltylumex/continuity-capsule-
+Description:
+This repository contains a cryptographically verifiable continuity manifest
+designed for long-term persistence, mirroring, and independent validation.
+It is intended to be readable by humans and machines without special tooling.
