@@ -1,0 +1,13 @@
+BLOCK
+System: CCS
+Block: 000
+Version: 1.0
+Created: 2026-01-20
+Purpose: Human+AI readable protocol content chunk 000.
+Notes:
+- Blocks are plain text.
+- Blocks are referenced by MANIFEST hash.
+- Blocks may be mirrored independently.
+
+CONTENT
+[PASTE YOUR BLOCK-000 CONTENT HERE]
